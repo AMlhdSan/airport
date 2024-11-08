@@ -29,7 +29,11 @@
 
 测速图自己上网找吧（[Google搜索链接（港区）](https://www.google.com.hk/search?q=%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E6%9C%BA%E5%9C%BA%E6%B5%8B%E9%80%9F%E5%9B%BE&oq=%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E6%9C%BA%E5%9C%BA%E6%B5%8B%E9%80%9F%E5%9B%BE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBDIKCAQQABiABBiiBNIBCDUxMzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8))
 
+优惠码：MRR5H9CYAO（如果失效可以上网找）
 
+<button type="button" onclick="navigator.clipboard.writeText('MRR5H9CYAO')">
+    复制到剪贴板
+</button>
 
 
 ## 最推荐的中端机场：润机场｜本人亲测｜我的备用机场
