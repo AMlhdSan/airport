@@ -80,7 +80,7 @@
 
 测速：
 
-![](https://amlhdsan.github.io/jichang/pqjc_.png)
+<img src="https://amlhdsan.github.io/jichang/pqjc_.png">
 
 ### Greenhub
 
