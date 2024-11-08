@@ -78,10 +78,6 @@
 
 <img src="https://amlhdsan.github.io/jichang/pqjc.png">
 
-测速：
-
-<img src="https://amlhdsan.github.io/jichang/pqjc_.png">
-
 ### Greenhub
 
 这个是全免费的VPN，适合临时翻墙啥的，不适合长期用。
